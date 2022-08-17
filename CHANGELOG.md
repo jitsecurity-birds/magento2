@@ -1,6 +1,7 @@
 2.4.0
 =============
 
+
 * GitHub issues:
     * [#24229](https://github.com/magento/magento2/issues/24229) -- Unable to enable maintenance mode when env.php is read only (fixed in [magento/magento2#25790](https://github.com/magento/magento2/pull/25790))
     * [#22416](https://github.com/magento/magento2/issues/22416) -- Coupling beetwen Magento_Checkout::js/view/shipping.js:validateShippingInformation() and layout definition or view.  (fixed in [magento/magento2#25541](https://github.com/magento/magento2/pull/25541))
